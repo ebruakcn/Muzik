@@ -1,0 +1,14 @@
+h1{
+  color: brown;
+}
+h2{
+  color: blueviolet;
+}
+
+.thick{
+font-style: oblique;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
